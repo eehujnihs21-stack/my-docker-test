@@ -1,0 +1,1 @@
+print("Hello My Name is 신주희 학번:2555037")
